@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wonderful news from Wales: or, A true narrative of an old woman living near Lanselin in Denbyshire; whose memory serves her truly and perfectly to relate what she hath seen and done one hundred and thirty years ago. Having now the full number of her teeth; the most of them were lost when she was three score years and ten. She is also remembred by some of ninety years old, to be taller than she is by 17 or 18 inches; with several other circumstances of her life, which shews her to be the wonder of our age. Licensed August 9. 1677.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66914</idno>
+            <idno type="STC">Wing W3369B</idno>
+            <idno type="STC">ESTC R221189</idno>
+            <idno type="EEBO-CITATION">99832545</idno>
+            <idno type="PROQUEST">99832545</idno>
+            <idno type="VID">37019</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37019)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2104:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wonderful news from Wales: or, A true narrative of an old woman living near Lanselin in Denbyshire; whose memory serves her truly and perfectly to relate what she hath seen and done one hundred and thirty years ago. Having now the full number of her teeth; the most of them were lost when she was three score years and ten. She is also remembred by some of ninety years old, to be taller than she is by 17 or 18 inches; with several other circumstances of her life, which shews her to be the wonder of our age. Licensed August 9. 1677.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for C.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom. 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Longevity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37019:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 127 -->
+            <p>Wonderful News from WALES: OR, A TRUE NARRATIVE OF AN Old WOMAN Living near <hi>LANSELIN</hi> in <hi>DENBYSHIRE;</hi> Whoſe Memory ſerves her Truly and Perfectly to relate what ſhe hath ſeen and done <hi>One Hundred and Thirty Years ago.</hi> Having now the full number of her Teeth; the moſt of them were loſt when ſhe was <hi>Three ſcore Years and Ten.</hi> She is alſo remembred by ſome of Ninety Years Old, to be Taller than ſhe is by 17 or 18 Inches; With ſeveral other Circumſtances of her Life, which ſhews Her to be the WONDER of our AGE.</p>
+            <p>
+               <hi>Licenſed</hi> Auguſt 9. 1677.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>C. L. Anno Dom.</hi> 1677.</p>
+            <pb facs="tcp:37019:2"/>
+            <!-- PDF PAGE 128 -->
+            <pb facs="tcp:37019:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 128 -->
+            <pb facs="tcp:37019:3"/>
+            <!-- PDF PAGE 129 -->
+            <pb facs="tcp:37019:3"/>
+            <!-- PDF PAGE 129 -->
+            <pb facs="tcp:37019:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 130 -->
+            <pb facs="tcp:37019:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 130 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37019:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 131 -->
+            <pb n="1" facs="tcp:37019:5"/>
+            <!-- PDF PAGE 131 -->
+            <head>Strange News from <hi>WALES,</hi> Or, a true Narrative of an Old Woman living near to <hi>Lancelin</hi> in <hi>Denby-ſhire,</hi> &amp;c.</head>
+            <p>NOthing appears ſo contradictory and idle, but ſome Philoſopher or other has ſo earneſtly eſpous'd, that his life might have been eaſily taken, as a Mortgage for the ſecurity of the truth; Were the forfeiture thought conſi<g ref="char:EOLhyphen"/>derable: And as of this ſort there are many extravagant Preſidents that would make Nature very ridiculous; ſo there are to be found amongſt the graver ſort of aſſertors all the world over, whimſies, more fooliſh and barbarous then with the Savages, who enjoy'd ſcarce, or not at all, the light of Nature: Amongſt other Buſslings and tryals of Pens, It hath been a great diſpute about the age of <hi>Adam, Methuſelah,</hi> &amp;c. Some would have monthly years, deducing Arguments from <hi>Eve;</hi> Others from the <hi>Moon:</hi> Some more <hi>Perſian-like,</hi> will give the Sun the Glory of compleating the Year; holding alſo, Nature to be in a continual decay through her own weakneſs, or our wan<g ref="char:EOLhyphen"/>tonneſs; And though they' did live ſo many Years here<g ref="char:EOLhyphen"/>tofore, we have ſo chang'd our Bodies, that no one can be expected to live the quarter, nay ſcarce the Tythe of our Fore-fathers time. But 'twill be ſound Nature can<g ref="char:EOLhyphen"/>not decay, nor has her Luxury ſo circumſcrib'd our age, but that we do find Perſons, whoſe extent of Years ſerve to confute ſuch indigeſted Fancies.</p>
+            <pb n="2" facs="tcp:37019:6"/>
+            <!-- PDF PAGE 132 -->
+            <p>Not far from the ſeat of Old <hi>PARR,</hi> at this time lives, (near <hi>Lanſelyn</hi> in <hi>Denby-ſhire,</hi>) a Woman, named <hi>Jane Morgan,</hi> whoſe Memory yet ſerves her to give an exact account of ſeveral things ſhe hath ſeen and known <hi>One Hundred and Thirty Years ago:</hi> She walks uprightly, without the uſe of the leaſt Stick; Her Teeth are almoſt all now perfect in her head, although about Threeſcore Years ago ſhe had loſt moſt of them; She can ſee as well without Spectacles, if not better then with them; Her Hearing is quick and apprehenſive, and her Organs of Smelling are ſo corroborated by Age, that no Stench can invade them to the leaſt prejudice. She was the firſt that learnt that Famous and Memorable Tune called <hi>Sidanen,</hi> in all thoſe parts. When Queen <hi>Elizabeth</hi> was Crown'd, ſhe led all the Dances, and continued the Head of all that Countrey ſports, until the death of King <hi>JAMES;</hi> and was ſo ſenſible of the Glory ſhe had atchiev'd by ſuch continual Cuſtom, that ſhe would not part with it, until ſhe had bred her Daughter up to have it confer'd on her; which ſhe did in a publick Aſſembly when the Corona<g ref="char:EOLhyphen"/>tion of King CHARLES the Firſt was ſolemnized: But before her Daughter, as her Deputy had practiſed, and in her abſence taught the Countrey Meaſures for the ſpace of One and Twenty Years, having ſeveral Tunes Dedicated to her; <hi>Old Simon the King,</hi> was called her Delight,<hi>Jo Bent,</hi> her Fancy; <hi>Bob-in Joy</hi> her Conceit; Sleeping and waking ſhe ſung the <hi>Sidanen;</hi> wherefore the Neighbours called her by that Name.</p>
+            <p>Her Mother <hi>Jane Lloyd</hi> was married at Twenty years of age to one <hi>Evan Morgan</hi> an able Farmers Son, who
+<pb n="3" facs="tcp:37019:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 132 -->was the activ'ſt and ſtrong'ſt in his Country at Wreſtling: But at a certain Tryal of Skill, when he had foil'd all the Neighbours, and Strangers too; She put on Mans apparel, entred the round, and gave him three Falls; Upon which ſhe bore away the little Silver Bell that was the Con<g ref="char:EOLhyphen"/>querours due; But upon enquiry, who this Valiant ſtran<g ref="char:EOLhyphen"/>ger was, the young man fell ſo deeply in love with her, that maugre all his Friends hee married her, and lived with her Forty five years, before her Womb was ma<g ref="char:EOLhyphen"/>ture for Conception; About the ſixty ſixth year of her age ſhe brought forth her firſt Born, a Daughter, who did not conceive till the Fifty Fifth year of her age.</p>
+            <p>Many Maſculine, and Heroick acts did this Virago Mo<g ref="char:EOLhyphen"/>ther do, and though ſomtimes the Juſtices were ſevere, yet their Warrants were always void; and like Curſes of Malefactors, returned upon themſelves, for what ever ground ſhe trod on, was to Catch-polls and Petty Con<g ref="char:EOLhyphen"/>ſtables, as fatal, as <hi>Iriſh</hi> Earth to Venomous Creatures.</p>
+            <p>But as the Longeſt Day will have a Night, ſpight<g ref="char:EOLhyphen"/>full Age wrought a tendency towards a decay, upon her Vigorous Nerves, yet in all this while Time could not make her ſubject to the leaſt Diſeaſe, tho it has ſubmitted Her to the moſt unheard of ſhifts for Food as ever were or can be, and by the Calculation of her Stomack, Shee may be thought now to be in the Meridian of her Age: Hundreds of her Neighbours can juſtifie, that what Diſeaſe ſoever, Cattle, Horſes, Swine, Sheep, or the like, die, her ſtomack (ſo far is Fantaſtick Prejudice un<g ref="char:EOLhyphen"/>able to make the leaſt Impreſs on her) has a <hi>Menſtruum</hi> to digeſt gratefully ſuch faetid Fleſh, that others would
+<pb n="4" facs="tcp:37019:7"/>
+               <!-- PDF PAGE 133 -->not only abhor, but it would put ſuch ſtreſs and violence upon them, that irreſiſtable Death would infallibly follow.</p>
+            <p>'Tis a certain Truth, that Carron buried two or three Days in the Winter-time, ſhe will take up, which with<g ref="char:EOLhyphen"/>out any other preparation, ſhe will ſlice, and fling as Collops upon the Coles, which ſhe will eat as ſavorly, as he that thinks he eats the beſt in Town, when he hath the rareſt Cutlets dreſt for him: And if her Prize cannot at once be eaten, ſhe'l gently and careleſly ſalt the Re<g ref="char:EOLhyphen"/>mainder, and expoſe it to the greateſt Fury of her ſmoa<g ref="char:EOLhyphen"/>king Cell, and prudently reſerves it as a future happineſs.</p>
+            <p>If againſt a good Time her Neighbours bounty will beſtow any Corn upon her, ſhe will yet upon her head make ſhift to carry <hi>Two Buſhels</hi> to the Mill; Which tho it be very remarkable in one of her Age, it is very in<g ref="char:EOLhyphen"/>conſiderate to what ſhe hath done formerly.</p>
+            <p>When ſhe was near an Hundred Years old, her Occa<g ref="char:EOLhyphen"/>ſions inviting her about that time to <hi>Oſwaldstrey</hi> Market, which is Three Miles; but becauſe of its ruggedneſs and length, ſhe had better have gone from <hi>London</hi> to <hi>Bar<g ref="char:EOLhyphen"/>net:</hi> After ſhe had there filled her Apron with cumber<g ref="char:EOLhyphen"/>ſom neceſſaries to that bulk, that the Burden ſeem'd at ſome diſtance to walk before her; ſhe was told by a ſtan<g ref="char:EOLhyphen"/>der by, that it was impoſſible for her to carry ſuch a troubleſom burden home: This mans Horſe was then loaden with Two Pieces of courſe <hi>Welſh Cotton;</hi> She then ſcornfully anſwer'd; <hi>If you put thoſe Two Pieces which your Horſe ſeems almoſt to ſhrink under, upon my Sholders, I will for a Wager undertake to carry them as far as my Houſe, before You and your Horſe can come thither:</hi> The Man be<g ref="char:EOLhyphen"/>ing her Neighbour, fearful to loſe, and unwilling to diſpleaſe her; reply'd, he was more willing to eaſe then
+<pb n="5" facs="tcp:37019:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 133 -->trouble her. But One of the incredulous <hi>Corporation,</hi> ignorant of her prodigious ſtrength, wag'd with her, and ſuſpecting her Neighbour would be partial; He, with 3 or 4 of his moſt curious Neighbours, got Horſes, and fol<g ref="char:EOLhyphen"/>lowed her preſently; and at the end of Two Miles and a half they overtook the Man, belabouring his weary Horſe: They askt him for the Woman? he anſwer'd them, curſing, ſaying he had had 2 or 3 ſcurvy falls; and that he had no ſight of her in a quarter of a Mile: They going for<g ref="char:EOLhyphen"/>ward, found her return'd, ſitting in her Chimney corner ſmoaking <hi>Tobacco</hi> in a comfortable ſhort Pipe; at which they were aſtoniſh'd.</p>
+            <p>A Thouſand more conſiderable Stories, muſt here (for brevity ſake) be omitted: It will therefore be conveni<g ref="char:EOLhyphen"/>ent to add a Relation her Neighbours give, in reſpect of her Age; ſome of Fourſcore and Ten, remember they heard their Fathers ſay, ſhe was a very proper tall Woman.</p>
+            <p>In a Houſe out of which ſhe had ſeen buried Eleven Heirs, Her proportion as to her height, was taken above 100 years ago; And the laſt year coming to the ſame place, ſhe was found to want of that meaſure betwixt <hi>ſeventeen</hi> and <hi>eighteen</hi> Inches; and now ſhe is <hi>Four Foot and four Inches</hi> high, not at all ſtooping, at which the by-ſtanders much admir'd; which ſhe perceiving, told them, that her Mother was completely <hi>Two Yards</hi> high; And that before ſhe dyed, ſhe ſhrunk to <hi>Three Foot and Six Inches:</hi> So that ſhe concluded by the graduation of their decays, be<g ref="char:EOLhyphen"/>fore ſhe had ſhrunk to her utmoſt, ſhe muſt yet live above <hi>Threeſcore</hi> years; and who knows but ſhe may? For ſhe is as mery as a Girl of <hi>Fifteen,</hi> and will ſing from Morning till Night; Her Memory is ſo lively, that ſhe'll tell Stories of Queen <hi>Elizabeth</hi> and King <hi>James,</hi> as freſh, and more pleaſantly then the ſufferers in the late Wars can.</p>
+            <pb n="6" facs="tcp:37019:8"/>
+            <!-- PDF PAGE 134 -->
+            <p>I was the more willing to publiſh this, becauſe I hop'd ſome <hi>Virtuoſo's</hi> would be ſo kind, as curiouſly to ſatisfie themſelves of the Truth, and then the world after; with Reaſons how this comes to paſs; and why others live not to the ſame Age?</p>
+            <p>What ſort of <hi>Menſtruum</hi> her Stomack has?</p>
+            <p>How are her Organs ordered, ſince no Stench offends her?</p>
+            <p>And ſince it is a Contradiction to ſay ſhe grows leſs, how comes the whole Contexture of her Body with ſuch conſent of Parts to be diminiſhed?</p>
+            <p>And ſince the Bones muſt conſequently be contracted, how come we to find Bones long buried, of the ſame length as when firſt Interr'd</p>
+            <p>If any Perſon queſtion the Truth of this Narra<g ref="char:EOLhyphen"/>tive, or deſire to ſatisfie their Curioſity, let them repair to <hi>West-Smithfield,</hi> where ſhe is daily expected, to convince the World of the Truth thereof.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
